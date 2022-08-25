@@ -5,4 +5,6 @@ echo "ALX School is so cool!"
 echo "ALX School"
 >>>>>>> update_script
 git add .
+git commit -m "Resolved merge conflict by incorporating both suggestions."
+
 
